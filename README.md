@@ -1,20 +1,20 @@
 <img src="logo.png" width="400" style="{ margin: '20px' }" />
 
-# Raising the Bar for the Industry
+# Raising the bar for the industry
 
 Proper security doesn’t stop at the audit report. We will fix your code, but our mission is to contribute to a better industry. [Read our manifesto](#cybersecurity-of-a-new-era---a-manifesto).
 
-## Work with the Elite 
+## Work with the elite 
 
 We bring in the top contest winners, researchers, and engineers — people whose names are recognized in the industry.
 
-## Skin in the Game
+## Skin in the game
 
 After more than a decade in cybersecurity working with OGs like the Ethereum Foundation, Arbitrum, and many projects on Solana, we’ve learned one thing:
 
 Even the best need the right incentives. Our auditors compete with each other in our blinded process, so it’s very obvious if they don’t match the highest expectations. If critical issues are missed, a significant portion of our fee is returned, which would have otherwise gone to the auditor as a performance bonus.
 
-## Tailor made
+## Bespoke
 
 We tailor every step of our process to your needs. Attackers often target the weakest links - our audits include workshops about security strategy and threat modeling to strengthen your whole security posture.  
 
@@ -22,7 +22,7 @@ We tailor every step of our process to your needs. Attackers often target the we
 
 ## Full scope
 
-For teams that want the most, we offer a **Virtual Chief Security Officer (vCISO)**. 
+For teams that want the most, we offer a **Virtual Chief Security Officer (vCISO)** service. 
 
 We guide your full security operations: Secure development workflows, incident readiness, DevSecOps coaching, internal reviews — all covered.
 
@@ -30,7 +30,7 @@ We guide your full security operations: Secure development workflows, incident r
 
 Request a quote: [info@solidified.io](mailto:info@solidified.io)
 
-# Cybersecurity of a New Era - a Manifesto
+# Cybersecurity of a new era - a manifesto
 
 Imagine a web3 where hacks don’t define the headlines. A place that deserves to be called trustless. 
 
@@ -66,7 +66,7 @@ To achieve the highest standards, we need highly customized solutions. This is t
 
 ---
 
-© 2025 · Solidified is a brand of Oak Security GmbH
+© 2025 · Solidified is a spin-off of Oak Security GmbH
 
 [Privacy policy](PRIVACY.md)
 
