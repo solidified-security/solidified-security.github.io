@@ -2,11 +2,11 @@
 
 # Raising the bar for the industry
 
-Proper security doesn’t stop at the audit report. We will fix your code, but our mission is to contribute to a better industry. [Read our manifesto](#cybersecurity-of-a-new-era---a-manifesto).
+Proper security doesn’t stop at the audit report. We will fix your code, but our mission is to contribute to a better industry. [Read our manifesto](#cybersecurity-of-a-new-era--a-manifesto).
 
 ## Work with the elite 
 
-We bring in the top contest winners, researchers, and engineers — people whose names are recognized in the industry.
+We bring in the top contest winners, researchers, and engineers, people whose names are recognized in the industry.
 
 ## Skin in the game
 
@@ -16,7 +16,7 @@ Even the best need the right incentives. Our auditors compete with each other in
 
 ## Bespoke
 
-We tailor every step of our process to your needs. Attackers often target the weakest links - our audits include workshops about security strategy and threat modeling to strengthen your whole security posture.  
+We tailor every step of our process to your needs. Attackers often target the weakest links, so our audits include workshops about security strategy and threat modeling to strengthen your whole security posture.  
 
 [Schedule a discovery call with our leadership team](https://calendar.app.google/izspPU2TbZRBgTZ77).
 
@@ -24,19 +24,19 @@ We tailor every step of our process to your needs. Attackers often target the we
 
 For teams that want the most, we offer a **Virtual Chief Security Officer (vCISO)** service. 
 
-We guide your full security operations: Secure development workflows, incident readiness, DevSecOps coaching, internal reviews — all covered.
+We guide your full security operations: Secure development workflows, incident readiness, DevSecOps coaching, internal reviews, that's all covered.
 
 [Learn more about our vCISO offering](https://docs.google.com/document/d/1VM3FYB8JATYh79SgwV7uYfCLw_FfZH8kHYZYITun-aA/edit?tab=t.0#heading=h.83mb4w65g9il)
 
 Request a quote: [info@solidified.io](mailto:info@solidified.io)
 
-# Cybersecurity of a new era - a manifesto
+# Cybersecurity of a new era: a manifesto
 
 Imagine a web3 where hacks don’t define the headlines. A place that deserves to be called trustless. 
 
 Where users can trust their protocols as much as their principles.
 
-That future isn’t science fiction — it’s a matter of discipline, culture, and design. Security isn’t the constraint; it’s the enabler of the world we set out to build.
+That future isn’t science fiction. It’s a matter of discipline, culture, and design. Security isn’t the constraint; it’s the enabler of the world we set out to build.
 
 We are industry veterans who deeply care for the space. And we see how one thing doesn’t change: too many exploits in web3. 
 
